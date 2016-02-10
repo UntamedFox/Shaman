@@ -1,0 +1,230 @@
+
+skeleton.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+armleft
+  rotate: false
+  xy: 387, 115
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+armright
+  rotate: false
+  xy: 1930, 854
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+backfurr
+  rotate: true
+  xy: 215, 70
+  size: 135, 170
+  orig: 135, 170
+  offset: 0, 0
+  index: -1
+beard
+  rotate: false
+  xy: 387, 147
+  size: 114, 58
+  orig: 114, 58
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 43
+  size: 211, 162
+  orig: 211, 162
+  offset: 0, 0
+  index: -1
+bodyfall
+  rotate: false
+  xy: 1217, 347
+  size: 199, 130
+  orig: 199, 130
+  offset: 0, 0
+  index: -1
+bodyjump
+  rotate: false
+  xy: 1448, 530
+  size: 151, 219
+  orig: 151, 219
+  offset: 0, 0
+  index: -1
+ear
+  rotate: false
+  xy: 1333, 295
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+eyebrows
+  rotate: false
+  xy: 1930, 882
+  size: 107, 29
+  orig: 107, 29
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1217, 244
+  size: 114, 101
+  orig: 114, 101
+  offset: 0, 0
+  index: -1
+feather1
+  rotate: false
+  xy: 1448, 489
+  size: 108, 39
+  orig: 108, 39
+  offset: 0, 0
+  index: -1
+feather2
+  rotate: false
+  xy: 1601, 630
+  size: 83, 51
+  orig: 83, 51
+  offset: 0, 0
+  index: -1
+feather3
+  rotate: false
+  xy: 1757, 703
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+feather4
+  rotate: true
+  xy: 1558, 497
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+feather5
+  rotate: true
+  xy: 966, 208
+  size: 23, 39
+  orig: 23, 39
+  offset: 0, 0
+  index: -1
+frontfurr
+  rotate: false
+  xy: 1930, 913
+  size: 115, 108
+  orig: 115, 108
+  offset: 0, 0
+  index: -1
+fuego00000
+  rotate: false
+  xy: 2, 751
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+fuego00001
+  rotate: false
+  xy: 2, 479
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+fuego00002
+  rotate: false
+  xy: 484, 751
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+fuego00003
+  rotate: false
+  xy: 2, 207
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+fuego00004
+  rotate: false
+  xy: 484, 479
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+fuego00005
+  rotate: false
+  xy: 966, 751
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+fuego00006
+  rotate: false
+  xy: 484, 207
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+fuego00007
+  rotate: false
+  xy: 966, 479
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+fuego00008
+  rotate: false
+  xy: 1448, 751
+  size: 480, 270
+  orig: 480, 270
+  offset: 0, 0
+  index: -1
+handleft
+  rotate: true
+  xy: 148, 3
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+handleft2
+  rotate: true
+  xy: 148, 3
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+handright
+  rotate: false
+  xy: 966, 233
+  size: 249, 244
+  orig: 249, 244
+  offset: 0, 0
+  index: -1
+helment
+  rotate: false
+  xy: 1601, 683
+  size: 154, 66
+  orig: 154, 66
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 2, 2
+  size: 144, 39
+  orig: 144, 39
+  offset: 0, 0
+  index: -1
+shoulderleft
+  rotate: false
+  xy: 503, 176
+  size: 45, 29
+  orig: 45, 29
+  offset: 0, 0
+  index: -1
+shoulderright
+  rotate: true
+  xy: 1418, 430
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1

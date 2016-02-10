@@ -1,0 +1,76 @@
+
+skeleton.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HUMO_0000_humo00007
+  rotate: false
+  xy: 527, 23
+  size: 164, 146
+  orig: 164, 146
+  offset: 0, 0
+  index: -1
+HUMO_0001_humo00006
+  rotate: false
+  xy: 1027, 26
+  size: 163, 143
+  orig: 163, 143
+  offset: 0, 0
+  index: -1
+HUMO_0002_humo00005
+  rotate: false
+  xy: 860, 28
+  size: 165, 141
+  orig: 165, 141
+  offset: 0, 0
+  index: -1
+HUMO_0003_humo00004
+  rotate: false
+  xy: 1357, 31
+  size: 166, 138
+  orig: 166, 138
+  offset: 0, 0
+  index: -1
+HUMO_0004_humo00003
+  rotate: false
+  xy: 693, 27
+  size: 165, 142
+  orig: 165, 142
+  offset: 0, 0
+  index: -1
+HUMO_0005_humo00002
+  rotate: false
+  xy: 1192, 26
+  size: 163, 143
+  orig: 163, 143
+  offset: 0, 0
+  index: -1
+HUMO_0006_humo00001
+  rotate: false
+  xy: 358, 23
+  size: 167, 146
+  orig: 167, 146
+  offset: 0, 0
+  index: -1
+HUMO_0007_Layer-0
+  rotate: false
+  xy: 188, 21
+  size: 168, 148
+  orig: 168, 148
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 2
+  size: 184, 167
+  orig: 184, 167
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 1525, 54
+  size: 123, 115
+  orig: 123, 115
+  offset: 0, 0
+  index: -1
